@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 9000
+            "offset": 9001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:02116",
-            "maxdate": "2020-11-22",
-            "mindate": "1891-01-01",
-            "name": "Boston, MA 02116"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:02118",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1997-03-06",
             "name": "Franklin, VT 05457"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:05458",
+            "maxdate": "2020-11-22",
+            "mindate": "1997-03-06",
+            "name": "Grand Isle, VT 05458"
         }
     ]
 }

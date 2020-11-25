@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 4000
+            "offset": 4001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "FIPS:30069",
-            "maxdate": "2020-11-23",
-            "mindate": "1913-06-08",
-            "name": "Petroleum County, MT"
-        },
         {
             "datacoverage": 1,
             "id": "FIPS:30071",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-23",
             "mindate": "1902-01-01",
             "name": "Gregg County, TX"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:48185",
+            "maxdate": "2020-11-22",
+            "mindate": "1914-06-01",
+            "name": "Grimes County, TX"
         }
     ]
 }

@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 18000
+            "offset": 18001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:32541",
-            "maxdate": "2020-11-22",
-            "mindate": "1994-08-15",
-            "name": "Destin, FL 32541"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:32542",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1895-03-23",
             "name": "Ashville, AL 35953"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:35954",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-02-24",
+            "name": "Attalla, AL 35954"
         }
     ]
 }

@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 23000
+            "offset": 23001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:48367",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-02-09",
-            "name": "Leonard, MI 48367"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:48370",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-06-01",
             "name": "Ottosen, IA 50570"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:50571",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-06-01",
+            "name": "Palmer, IA 50571"
         }
     ]
 }

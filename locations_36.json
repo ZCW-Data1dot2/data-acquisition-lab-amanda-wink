@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 36000
+            "offset": 36001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:90031",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-05-09",
-            "name": "Los Angeles, CA 90031"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:90032",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-05-03",
             "name": "Pope Valley, CA 94567"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:94568",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-05-03",
+            "name": "Dublin, CA 94568"
         }
     ]
 }

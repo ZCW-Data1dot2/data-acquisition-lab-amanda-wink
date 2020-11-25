@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 19000
+            "offset": 19001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:35954",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-02-24",
-            "name": "Attalla, AL 35954"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:35956",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1901-04-01",
             "name": "Indianola, MS 38751"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:38753",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-05-01",
+            "name": "Inverness, MS 38753"
         }
     ]
 }

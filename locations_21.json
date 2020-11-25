@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 21000
+            "offset": 21001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:42420",
-            "maxdate": "2020-11-23",
-            "mindate": "1894-01-01",
-            "name": "Henderson, KY 42420"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:42431",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-01-19",
             "name": "Chauncey, OH 45719"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:45723",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-01-19",
+            "name": "Coolville, OH 45723"
         }
     ]
 }

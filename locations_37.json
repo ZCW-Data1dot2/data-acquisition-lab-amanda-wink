@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 37000
+            "offset": 37001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:94568",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-05-03",
-            "name": "Dublin, CA 94568"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:94569",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1909-06-01",
             "name": "Westfir, OR 97492"
+        },
+        {
+            "datacoverage": 0.9999,
+            "id": "ZIP:97493",
+            "maxdate": "2020-11-22",
+            "mindate": "1932-01-16",
+            "name": "Westlake, OR 97493"
         }
     ]
 }

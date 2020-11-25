@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 15000
+            "offset": 15001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:23433",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-07-06",
-            "name": "Suffolk, VA 23433"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:23434",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-07-06",
             "name": "Ararat, NC 27007"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:27009",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-07-06",
+            "name": "Belews Creek, NC 27009"
         }
     ]
 }

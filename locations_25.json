@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 25000
+            "offset": 25001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:54313",
-            "maxdate": "2020-11-23",
-            "mindate": "1949-08-15",
-            "name": "Green Bay, WI 54313"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:54401",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1948-08-01",
             "name": "Ironton, MN 56455"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:56458",
+            "maxdate": "2020-11-22",
+            "mindate": "1996-05-08",
+            "name": "Lake George, MN 56458"
         }
     ]
 }

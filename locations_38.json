@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 38000
+            "offset": 38001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.9999,
-            "id": "ZIP:97493",
-            "maxdate": "2020-11-22",
-            "mindate": "1932-01-16",
-            "name": "Westlake, OR 97493"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:97495",

@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 32000
+            "offset": 32001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:73719",
-            "maxdate": "2020-11-22",
-            "mindate": "1994-02-28",
-            "name": "Amorita, OK 73719"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:73720",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1994-12-15",
             "name": "China Spring, TX 76633"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:76634",
+            "maxdate": "2020-11-22",
+            "mindate": "1911-02-01",
+            "name": "Clifton, TX 76634"
         }
     ]
 }

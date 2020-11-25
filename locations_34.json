@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 34000
+            "offset": 34001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:79527",
-            "maxdate": "2020-11-22",
-            "mindate": "1893-01-01",
-            "name": "Ira, TX 79527"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:79528",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-23",
             "mindate": "1900-01-01",
             "name": "Laketown, UT 84038"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:84039",
+            "maxdate": "2020-11-22",
+            "mindate": "1944-11-01",
+            "name": "Lapoint, UT 84039"
         }
     ]
 }

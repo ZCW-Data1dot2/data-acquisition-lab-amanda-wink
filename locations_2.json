@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 2000
+            "offset": 2001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "CLIM:0403",
-            "maxdate": "2020-11-23",
-            "mindate": "1897-09-04",
-            "name": "North Central Arizona Climate Division"
-        },
         {
             "datacoverage": 1,
             "id": "CLIM:0404",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-23",
             "mindate": "1892-05-01",
             "name": "La Salle County, IL"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:17101",
+            "maxdate": "2020-11-23",
+            "mindate": "1894-04-01",
+            "name": "Lawrence County, IL"
         }
     ]
 }

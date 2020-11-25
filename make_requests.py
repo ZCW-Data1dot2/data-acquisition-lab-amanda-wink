@@ -4,11 +4,10 @@ import time
 import os
 
 def make_request():
-    offset = 0
-
+    offset = 1
     json_num = 0
-    count = 1
-    while offset < count:
+    count = 2
+    while offset <= count:
         url_n = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/locations?limit=1000&offset=' + str(offset)
         key='NOAA_TOKEN'
         token=os.getenv(key)

@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 33000
+            "offset": 33001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:76634",
-            "maxdate": "2020-11-22",
-            "mindate": "1911-02-01",
-            "name": "Clifton, TX 76634"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:76635",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-05-05",
             "name": "Hermleigh, TX 79526"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:79527",
+            "maxdate": "2020-11-22",
+            "mindate": "1893-01-01",
+            "name": "Ira, TX 79527"
         }
     ]
 }

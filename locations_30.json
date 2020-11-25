@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 30000
+            "offset": 30001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:67511",
-            "maxdate": "2020-11-22",
-            "mindate": "1959-08-01",
-            "name": "Albert, KS 67511"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:67512",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1947-11-01",
             "name": "Baton Rouge, LA 70808"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:70809",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-05-09",
+            "name": "Baton Rouge, LA 70809"
         }
     ]
 }

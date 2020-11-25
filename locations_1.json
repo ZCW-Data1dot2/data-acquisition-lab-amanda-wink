@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 1000
+            "offset": 1001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "CITY:TU000037",
-            "maxdate": "2020-11-18",
-            "mindate": "2003-03-01",
-            "name": "Kutahya, TU"
-        },
         {
             "datacoverage": 0.9998,
             "id": "CITY:TU000038",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-23",
             "mindate": "1892-12-01",
             "name": "Northeast Arizona Climate Division"
+        },
+        {
+            "datacoverage": 1,
+            "id": "CLIM:0403",
+            "maxdate": "2020-11-23",
+            "mindate": "1897-09-04",
+            "name": "North Central Arizona Climate Division"
         }
     ]
 }

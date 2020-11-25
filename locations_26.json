@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 26000
+            "offset": 26001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:56458",
-            "maxdate": "2020-11-22",
-            "mindate": "1996-05-08",
-            "name": "Lake George, MN 56458"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:56461",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1931-01-01",
             "name": "Scobey, MT 59263"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:59270",
+            "maxdate": "2020-11-22",
+            "mindate": "1900-05-04",
+            "name": "Sidney, MT 59270"
         }
     ]
 }

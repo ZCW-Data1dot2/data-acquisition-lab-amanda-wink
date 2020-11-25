@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 12000
+            "offset": 12001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:13353",
-            "maxdate": "2020-11-22",
-            "mindate": "1908-01-01",
-            "name": "Hoffmeister, NY 13353"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:13354",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1907-01-01",
             "name": "Grove City, PA 16127"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:16130",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-01-19",
+            "name": "Hadley, PA 16130"
         }
     ]
 }

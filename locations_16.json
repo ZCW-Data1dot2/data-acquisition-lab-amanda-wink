@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 16000
+            "offset": 16001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:27009",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-07-06",
-            "name": "Belews Creek, NC 27009"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:27011",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1943-06-01",
             "name": "Cleveland, SC 29635"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:29638",
+            "maxdate": "2020-11-22",
+            "mindate": "1994-08-16",
+            "name": "Donalds, SC 29638"
         }
     ]
 }

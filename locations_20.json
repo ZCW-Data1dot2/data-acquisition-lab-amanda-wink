@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 20000
+            "offset": 20001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:38753",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-05-01",
-            "name": "Inverness, MS 38753"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:38754",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-05-09",
             "name": "Hanson, KY 42413"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:42420",
+            "maxdate": "2020-11-23",
+            "mindate": "1894-01-01",
+            "name": "Henderson, KY 42420"
         }
     ]
 }

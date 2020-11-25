@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 14000
+            "offset": 14001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:19464",
-            "maxdate": "2020-11-22",
-            "mindate": "1894-01-01",
-            "name": "Pottstown, PA 19464"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:19465",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-07-06",
             "name": "Suffolk, VA 23432"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:23433",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-07-06",
+            "name": "Suffolk, VA 23433"
         }
     ]
 }

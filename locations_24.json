@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 24000
+            "offset": 24001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:50571",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-06-01",
-            "name": "Palmer, IA 50571"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:50574",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-07-26",
             "name": "Green Bay, WI 54311"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:54313",
+            "maxdate": "2020-11-23",
+            "mindate": "1949-08-15",
+            "name": "Green Bay, WI 54313"
         }
     ]
 }

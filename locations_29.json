@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 29000
+            "offset": 29001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:64496",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-02-28",
-            "name": "Watson, MO 64496"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:64497",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1994-04-01",
             "name": "Abbyville, KS 67510"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:67511",
+            "maxdate": "2020-11-22",
+            "mindate": "1959-08-01",
+            "name": "Albert, KS 67511"
         }
     ]
 }

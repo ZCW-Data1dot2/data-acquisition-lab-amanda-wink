@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 8000
+            "offset": 8001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "HUC:1605",
-            "maxdate": "2020-11-23",
-            "mindate": "1887-10-01",
-            "name": "Central Lahontan Hydrologic Unit"
-        },
         {
             "datacoverage": 1,
             "id": "HUC:160501",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1994-12-15",
             "name": "Boston, MA 02115"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:02116",
+            "maxdate": "2020-11-22",
+            "mindate": "1891-01-01",
+            "name": "Boston, MA 02116"
         }
     ]
 }

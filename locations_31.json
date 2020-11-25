@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 31000
+            "offset": 31001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:70809",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-05-09",
-            "name": "Baton Rouge, LA 70809"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:70810",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1896-05-01",
             "name": "Ames, OK 73718"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:73719",
+            "maxdate": "2020-11-22",
+            "mindate": "1994-02-28",
+            "name": "Amorita, OK 73719"
         }
     ]
 }

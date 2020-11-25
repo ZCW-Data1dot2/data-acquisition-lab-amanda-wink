@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 10000
+            "offset": 10001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:05458",
-            "maxdate": "2020-11-22",
-            "mindate": "1997-03-06",
-            "name": "Grand Isle, VT 05458"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:05459",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-04-26",
             "name": "New York, NY 10038"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:10039",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-04-26",
+            "name": "New York, NY 10039"
         }
     ]
 }

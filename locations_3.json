@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 3000
+            "offset": 3001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "FIPS:17101",
-            "maxdate": "2020-11-23",
-            "mindate": "1894-04-01",
-            "name": "Lawrence County, IL"
-        },
         {
             "datacoverage": 1,
             "id": "FIPS:17103",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-23",
             "mindate": "1893-01-01",
             "name": "Park County, MT"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:30069",
+            "maxdate": "2020-11-23",
+            "mindate": "1913-06-08",
+            "name": "Petroleum County, MT"
         }
     ]
 }

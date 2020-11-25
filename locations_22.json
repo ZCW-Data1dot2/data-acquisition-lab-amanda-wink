@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 22000
+            "offset": 22001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:45723",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-01-19",
-            "name": "Coolville, OH 45723"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:45724",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1946-05-19",
             "name": "Oakland, MI 48363"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:48367",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-02-09",
+            "name": "Leonard, MI 48367"
         }
     ]
 }

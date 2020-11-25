@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 28000
+            "offset": 28001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:61943",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-04-13",
-            "name": "Oakland, IL 61943"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:61944",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-02-28",
             "name": "Union Star, MO 64494"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "ZIP:64496",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-02-28",
+            "name": "Watson, MO 64496"
         }
     ]
 }

@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 11000
+            "offset": 11001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:10039",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-04-26",
-            "name": "New York, NY 10039"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:10040",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1995-05-09",
             "name": "Herkimer, NY 13350"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:13353",
+            "maxdate": "2020-11-22",
+            "mindate": "1908-01-01",
+            "name": "Hoffmeister, NY 13353"
         }
     ]
 }

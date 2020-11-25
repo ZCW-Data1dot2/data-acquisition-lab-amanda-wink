@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 13000
+            "offset": 13001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:16130",
-            "maxdate": "2020-11-22",
-            "mindate": "1995-01-19",
-            "name": "Hadley, PA 16130"
-        },
         {
             "datacoverage": 0.95,
             "id": "ZIP:16131",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1994-06-15",
             "name": "Plymouth Meeting, PA 19462"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:19464",
+            "maxdate": "2020-11-22",
+            "mindate": "1894-01-01",
+            "name": "Pottstown, PA 19464"
         }
     ]
 }

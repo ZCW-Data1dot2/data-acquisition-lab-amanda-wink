@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 27000
+            "offset": 27001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "ZIP:59270",
-            "maxdate": "2020-11-22",
-            "mindate": "1900-05-04",
-            "name": "Sidney, MT 59270"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:59274",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1990-10-01",
             "name": "Newman, IL 61942"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:61943",
+            "maxdate": "2020-11-22",
+            "mindate": "1995-04-13",
+            "name": "Oakland, IL 61943"
         }
     ]
 }

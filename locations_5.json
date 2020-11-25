@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 5000
+            "offset": 5001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "FIPS:48185",
-            "maxdate": "2020-11-22",
-            "mindate": "1914-06-01",
-            "name": "Grimes County, TX"
-        },
         {
             "datacoverage": 1,
             "id": "FIPS:48187",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-23",
             "mindate": "1896-02-01",
             "name": "Bogue-Core Sounds Hydrologic Unit"
+        },
+        {
+            "datacoverage": 1,
+            "id": "HUC:030202",
+            "maxdate": "2020-11-23",
+            "mindate": "1890-09-01",
+            "name": "Neuse Hydrologic Unit"
         }
     ]
 }

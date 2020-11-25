@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 17000
+            "offset": 17001
         }
     },
     "results": [
-        {
-            "datacoverage": 0.95,
-            "id": "ZIP:29638",
-            "maxdate": "2020-11-22",
-            "mindate": "1994-08-16",
-            "name": "Donalds, SC 29638"
-        },
         {
             "datacoverage": 1,
             "id": "ZIP:29639",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-22",
             "mindate": "1952-09-01",
             "name": "Crestview, FL 32539"
+        },
+        {
+            "datacoverage": 1,
+            "id": "ZIP:32541",
+            "maxdate": "2020-11-22",
+            "mindate": "1994-08-15",
+            "name": "Destin, FL 32541"
         }
     ]
 }

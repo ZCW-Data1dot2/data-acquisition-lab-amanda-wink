@@ -3,17 +3,10 @@
         "resultset": {
             "count": 38862,
             "limit": 1000,
-            "offset": 6000
+            "offset": 6001
         }
     },
     "results": [
-        {
-            "datacoverage": 1,
-            "id": "HUC:030202",
-            "maxdate": "2020-11-23",
-            "mindate": "1890-09-01",
-            "name": "Neuse Hydrologic Unit"
-        },
         {
             "datacoverage": 1,
             "id": "HUC:03020201",
@@ -7006,6 +6999,13 @@
             "maxdate": "2020-11-23",
             "mindate": "1897-04-01",
             "name": "Shoshone Hydrologic Unit"
+        },
+        {
+            "datacoverage": 1,
+            "id": "HUC:10080015",
+            "maxdate": "2020-11-22",
+            "mindate": "1909-06-06",
+            "name": "Lower Bighorn Hydrologic Unit"
         }
     ]
 }
